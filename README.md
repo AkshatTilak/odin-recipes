@@ -6,3 +6,5 @@ this project uses these features of HTML:
     links
     images
     lists
+    
+website available at AkshatTilak.github.io/odin-recipes
